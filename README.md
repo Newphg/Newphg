@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-🌱 I’m currently learning on software tester/QA role
+🌱 I’m currently learning on software tester/QA role and programming
 
 ## EDUCATION
 - Bacherlor of Mechanical engineering at Srinakharinwirot university (2016-2020)
 
 ## GRADUATED PROJECT
 - Mechanical design application using android studio (JAVA)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://i.imgur.com/wBUOXC3.png)">
 
 
 <!--

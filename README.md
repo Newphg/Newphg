@@ -8,7 +8,7 @@
 ## GRADUATED PROJECT
 - Mechanical design application using android studio (JAVA)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/wBUOXC3.png">
+  <source media="(prefers-color-scheme: dark)" srcset="[https://i.imgur.com/wBUOXC3.png](https://i.imgur.com/wBUOXC3.png)">
 </picture>
 
 <!--

@@ -8,7 +8,7 @@
 ## GRADUATED PROJECT
 - Mechanical design application using android studio (JAVA)
 
-![alt text](https://i.imgur.com/wBUOXC3.png)
+![alt text](https://i.imgur.com/wBUOXC3.png) ![alt text](https://i.imgur.com/5edB1hp.png) ![alt text](https://i.imgur.com/2lUKfEw.png)
 
 <!--
 **Newphg/Newphg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

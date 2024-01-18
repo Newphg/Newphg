@@ -10,6 +10,16 @@
 
 ![](https://i.imgur.com/wBUOXC3l.png) ![](https://i.imgur.com/2lUKfEwl.png)
 
+## SKILL
+- Java
+- MySQL
+- Visual code
+- Postman
+- Robot framework
+- Kubernetes
+- Docker
+- Linux
+- Jira
 <!--
 **Newphg/Newphg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

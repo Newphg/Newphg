@@ -2,6 +2,13 @@
 
 🌱 I’m currently learning on software tester/QA role
 
+# EDUCATION
+Bacherlor of Mechanical engineering at Srinakharinwirot university (2016-2020)
+
+# GRADUATED PROJECT
+- Mechanical design application using android studio (JAVA)
+
+
 <!--
 **Newphg/Newphg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

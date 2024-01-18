@@ -9,7 +9,7 @@
 - Mechanical design application using android studio (JAVA)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/wBUOXC3.png">
-
+</picture>
 
 <!--
 **Newphg/Newphg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

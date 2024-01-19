@@ -22,6 +22,10 @@
 - Docker
 - Linux
 - Jira
+
+## LANGUAGE
+- [x] THAI
+- [x] ENGLISH
 <!--
 **Newphg/Newphg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
